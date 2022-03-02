@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - I am looking forward to making projects with python and various coding languages 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on building websites and video games
 - 🤔 I’m looking for help with animation in CSS
 - 💬 Ask me about Hollow Knight lore
